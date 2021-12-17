@@ -1,4 +1,4 @@
 # BearApp
 App for identifying territorial bears whilst on a hike
 
-Fill in the fields to see the markdown badge snippet.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AreloTanoh/BearApp/HEAD?labpath=%2Fvoila%2Frender%2FBear_app-v1.ipynb)
