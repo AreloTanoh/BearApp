@@ -1,5 +1,3 @@
-voila
 fastai
-pillow<7
-packaging
+voila
 ipywidgets==7.5.1
